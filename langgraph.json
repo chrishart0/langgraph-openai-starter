@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "pc_part_picker": "./src/agent/graph.py:graph"
+    },
+    "env": ".env"
+  }
